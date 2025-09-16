@@ -1,0 +1,11 @@
+section,type,title,value,change,trend,icon,color,bgColor,description,timestamp,avatar,status
+kpi,kpi,Active Drivers,234,+12.5%,up,Users,text-primary,bg-primary/10,,,,,
+kpi,kpi,Total Vehicles,186,+3.2%,up,Car,text-secondary,bg-secondary/10,,,,,
+kpi,kpi,Today's Trips,1247,+8.1%,up,Route,text-accent,bg-accent/10,,,,,
+kpi,kpi,Total Revenue,₹2,34,567,+15.3%,up,DollarSign,text-warning,bg-warning/10,,,,,
+
+activity,trip_completed,Trip completed by Rajesh Kumar,450,,,CheckCircle,text-secondary,bg-secondary/10,"Bandra to Andheri - ₹450 earned","5 minutes ago",RK,success
+activity,vehicle_maintenance,Vehicle maintenance due,,,,"AlertTriangle",text-warning,bg-warning/10,"MH01AB1234 - Service required","15 minutes ago",VM,warning
+activity,driver_joined,New driver onboarded,,,,"User",text-accent,bg-accent/10,"Amit Sharma joined your fleet","1 hour ago",AS,info
+activity,trip_started,Trip started by Priya Patel,,,,"Route",text-accent,bg-accent/10,"Powai to Airport - Estimated ₹800","2 hours ago",PP,info
+activity,vehicle_added,New vehicle registered,,,,"Car",text-secondary,bg-secondary/10,"MH02CD5678 - Maruti Swift added","3 hours ago",MH,success

@@ -1,0 +1,6 @@
+id,type,title,description,timestamp,status,icon,avatar
+1,trip_completed,Trip completed by Rajesh Kumar,"Bandra to Andheri - ₹450 earned","5 minutes ago",success,CheckCircle,RK
+2,vehicle_maintenance,Vehicle maintenance due,"MH01AB1234 - Service required","15 minutes ago",warning,AlertTriangle,VM
+3,driver_joined,New driver onboarded,"Amit Sharma joined your fleet","1 hour ago",info,User,AS
+4,trip_started,Trip started by Priya Patel,"Powai to Airport - Estimated ₹800","2 hours ago",info,Route,PP
+5,vehicle_added,New vehicle registered,"MH02CD5678 - Maruti Swift added","3 hours ago",success,Car,MH
